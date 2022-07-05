@@ -1,0 +1,62 @@
+2022-07-03 15:34:28 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-03 15:38:55 INFO  EmployeeController:32 - Get Request recieved at endpoint /employees
+2022-07-03 15:40:36 INFO  EmployeeController:39 - Creating New employee
+2022-07-03 15:41:46 INFO  EmployeeController:39 - Creating New employee
+2022-07-03 15:43:45 ERROR EmployeeController:58 - Employee with id of 9attemted to login, but does not exist.
+2022-07-03 16:20:10 INFO  EmployeeController:32 - Get Request recieved at endpoint /employees
+2022-07-03 18:49:54 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-03 18:49:54 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=2, firstName=Thomas, lastName=Rebinson, username=thomasr, password=t123, email=thomas@revature.com, employeeRole=Employee]
+2022-07-03 18:49:55 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=3, firstName=Dan, lastName=Fall, username=danF, password=d123, email=dan@revature.com, employeeRole=FinanceManager]
+2022-07-04 01:57:30 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 03:07:35 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 15:14:26 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 15:14:27 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=2, firstName=Thomas, lastName=Rebinson, username=thomasr, password=t123, email=thomas@revature.com, employeeRole=Employee]
+2022-07-04 15:14:27 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=3, firstName=Dan, lastName=Fall, username=danF, password=d123, email=dan@revature.com, employeeRole=FinanceManager]
+2022-07-04 15:23:34 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 15:23:35 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=2, firstName=Thomas, lastName=Rebinson, username=thomasr, password=t123, email=thomas@revature.com, employeeRole=Employee]
+2022-07-04 15:23:35 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=3, firstName=Dan, lastName=Fall, username=danF, password=d123, email=dan@revature.com, employeeRole=FinanceManager]
+2022-07-04 15:41:07 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 15:48:05 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 16:29:11 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 16:30:44 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 16:45:20 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 16:46:07 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 16:49:36 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 16:53:22 INFO  EmployeeController:32 - Get Request recieved at endpoint /employees
+2022-07-04 16:55:15 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:03:05 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 17:03:05 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 17:04:10 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:08:52 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:12:39 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 17:13:10 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:13:32 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:18:57 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:19:13 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:20:42 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:22:10 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:24:06 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:25:08 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:36:36 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:38:04 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:41:29 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:43:34 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 17:46:44 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 18:29:44 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 18:30:01 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 18:31:51 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 18:34:13 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 18:36:40 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 23:50:19 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-04 23:58:20 INFO  EmployeeController:39 - Creating New employee
+2022-07-04 23:59:57 INFO  EmployeeController:39 - Creating New employee
+2022-07-05 00:02:17 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-05 00:02:18 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=2, firstName=Thomas, lastName=Rebinson, username=thomasr, password=t123, email=thomas@revature.com, employeeRole=Employee]
+2022-07-05 00:02:19 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=3, firstName=Dan, lastName=Fall, username=danF, password=d123, email=dan@revature.com, employeeRole=FinanceManager]
+2022-07-05 11:35:47 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-05 12:26:16 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-05 12:26:17 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=2, firstName=Thomas, lastName=Rebinson, username=thomasr, password=t123, email=thomas@revature.com, employeeRole=Employee]
+2022-07-05 12:26:18 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=3, firstName=Dan, lastName=Fall, username=danF, password=d123, email=dan@revature.com, employeeRole=FinanceManager]
+2022-07-05 12:28:16 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]
+2022-07-05 12:29:41 INFO  EmployeeController:39 - Creating New employee
+2022-07-05 12:30:51 INFO  EmployeeController:28 - Session Attribute set for EmployeeEmployee [employeeId=1, firstName=John, lastName=Jackson, username=johnj, password=j123, email=john@revature.com, employeeRole=Employee]

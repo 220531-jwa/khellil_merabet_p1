@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add New Employee</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container pb-3">
+
+         
+        <label class="form-label" for="reviewText">Please enter the New Employee information here : </label><br>
+       
+        <label for="lname">Employee id:</label><br> 
+        <input id="idEmploy" type="number"><br> 
+
+        <label for="lname">First Name:</label><br>
+        <input id="idFirstname" type="text"><br>
+
+        <label for="lname">Last Name:</label><br>
+        <input id="idLastname" type="text"><br>
+   
+        <label for="lname">User Name:</label><br>
+        <input id="idUsername" type="text"><br>
+
+        <label for="lname">Password:</label><br>
+        <input id="idPassword" type="text"><br>
+
+        <label for="lname">Email:</label><br>
+        <input id="idEmail" type="text"><br>
+<br>
+        <select id="idRole" class="form-select"><br>
+            <option selected>Employee Role :</option><br>
+            <option value="1">1- Employee.</option>
+            <option value="2">2- Manager.</option>
+            <option value="3">3- Owner.</option>
+        </select><br>
+    <br>         
+        
+        <button class="btn btn-secondary" type="button" onclick="AddNewEmployee()">ADD</button>
+        
+
+    </div>
+    <script src="./ERSystemScript.js"></script>
+</body>
+</html>
